@@ -15,3 +15,21 @@ unidades de este módulo:
 - How to plan and participate in design sprints
 - Build your professional presence online,
 including starting your portfolio
+
+## building a carreer identity
+
+carreer identity is the unique value you bring to the workforce based on who you are and what youhave to offer, now and in the future
+
+se conforma por todas tus experiencias de vida y trabajo, y es moldeada por tus fortalezas, motivaciones y valores. Se cultiva a través de tu objetivos, metas y hacia donde te dirijes.
+
+### why is it important?
+
+mientras más informado estás spbre quién eres y hacia donde te dirijes, además empleadores y colegas tendrán un mejor entendimiento de qué tienes para ofrecer.
+
+#### componentes clave de la identidad profesional
+- strengths
+- motivations
+- values
+ 
+1. strengths(fortalezas): tasks and activities that you do well. Skills, knowledge and talents. Para que sea una fortaleza, tienes que ser buenx en ello, y ello debe hacerte sentir fuerte, capaz y enérgico.
+2. motivations(motivaciones): refiere a tu pasiones y propósitos. 
