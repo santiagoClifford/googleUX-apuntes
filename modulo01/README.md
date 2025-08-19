@@ -27,9 +27,19 @@ se conforma por todas tus experiencias de vida y trabajo, y es moldeada por tus 
 mientras más informado estás spbre quién eres y hacia donde te dirijes, además empleadores y colegas tendrán un mejor entendimiento de qué tienes para ofrecer.
 
 #### componentes clave de la identidad profesional
+
 - strengths
 - motivations
 - values
  
 1. strengths(fortalezas): tasks and activities that you do well. Skills, knowledge and talents. Para que sea una fortaleza, tienes que ser buenx en ello, y ello debe hacerte sentir fuerte, capaz y enérgico.
 2. motivations(motivaciones): refiere a tu pasiones y propósitos. 
+3. values(valores): reflejan tu toma de desiciones. ejemplos: integridad, responsabilidad, amabilidad, eficicencia, etc.
+
+### construir una identidad profesional propia
+
+strenghts: what skills, knowledge and talents set me apart?
+
+motivations: what fuels and motivates me the most?
+
+values: what values guide me? 
