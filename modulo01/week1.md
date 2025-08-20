@@ -72,21 +72,15 @@ habilidad para entender los sentimientos o pensamientos de otrx en una situació
 
 #### interaction designer
 
-se centran en diseñar la experiencia de un producto y cómo esta funciona.
-
-conectan las necesidades del usuario y las metas de la empresa, con un objetivo realista y fabricable.
+se centran en diseñar la experiencia de un producto y el flujo del usuario. 
 
 #### visual designer
 
-se centran en cómo el producto/tecnología se ve.
-
-respondables de diseñar logos, ilustraciones o íconos. También pueden encargarse de color y tamaño de la tipografía, el color, y layouts del producto.
+diseñan cómo el producto va a hacer sentir al usuario. 'look n feel'.
 
 #### motion designers
 
-se centran en pensar cómo se siente el usuario al moverse a través de un producto.
-
-Y pueden diseñar transiciones fluidas entre páginas o webs.
+se encargan de diseñar las distintas transiciones que el usuario experimenta al usar el producto. 
 
 #### graphic designers
 
@@ -102,16 +96,19 @@ se centran en cómo el usuario interactúa con el producto.
 
 #### ux researchers
 
-conducen estudios y entrevistas que nos ayudan a entender cómo las personas usan un producto.
+investigan el viaje del usuario. Con el fin de mejorar su experiencia.
 
 #### ux writers
 
-se centran en cómo hacer más claro el lenguaje y comunicación de un producto. con el fin de hacer la experiencia de usuario más intuitiva.
+se centran en la redacción y tono de los mensajes textuales que el producto comunica.
 
-Puede incluir escribir etiquietas para botones, o ajustar el tono de un mensaje, entre lo formal y amigable.
+#### ux engineers
 
-#### production designers
+estudian la viabilidad de los diseños propuestos. Se encargan de asegurar la implementabilidad de las propuestas.
 
-actúan como un intermediario entre diseñadores de interacción e ingenieros.
+## herramientas
 
-se aseguran de que los diseños coincidan con el producto final en cuanto a materiales. Y se aseguran de que los assets estén listos para ser entregados al equipo de ingenierxs.
+
+
+
+
