@@ -1,24 +1,4 @@
-# week 1
-
-## summary
-
-- ux design deifnition
-
-- why is it important for consumers and busieness
-
-- different roles within the field of ux
-
-- what makes a user experience good or bad
-
-- resposibilities of entry level ux designers
-
-- how ux designers work with cross functional teams
-
-- differences in ux design jobs depending on company size and industry
-
-- how to persue a career on ux design
-
-## user experience
+# user experience
 
 user experience is how a person(the user) feels about interacting with, or experiencing, a product
 
@@ -50,7 +30,7 @@ los diseñadores ux fomentan esa conexión positiva, al tomar en cuenta las opin
 
 para saber como los usuarixs se sienten con el producto, debemos recolectar evidencia en tiempo de real de cómo experimentan el producto(y también preguntarles sus opiniones sobre el producto).
 
-## useful
+### useful
 
 las personas queremos productos útiles, es decir, que nos ayuden a resolver algún problema.
 
@@ -58,53 +38,7 @@ esos son los puntos claves para que el usuario tenga una buena experiencia, pero
 
 básicamente, cuando un usuario le gusta un producto, lo usa, y lo recomienda a sus cercanxs. Además, cuando lxs usuarixs tienen buenas experiencias con productos, tienden a tener opiniones positivas sobre la empresa que crea aquel producto.
 
-## trabajos en el campo UX
 
-lxs diseñadores ux tienden a ser curiosxs, y pregguntarse cómo funciona la mente de otrxs.
-
-también disfrutan de descubrir cómo otrxs hacen uso de productos, y cómo hacer aquellos productos más fáciles de usar.
-
-### empathy
-
-habilidad para entender los sentimientos o pensamientos de otrx en una situación. La empatía es una parte importante del diseño ux.
-
-### different types of ux designers
-
-#### interaction designer
-
-se centran en diseñar la experiencia de un producto y el flujo del usuario. 
-
-#### visual designer
-
-diseñan cómo el producto va a hacer sentir al usuario. 'look n feel'.
-
-#### motion designers
-
-se encargan de diseñar las distintas transiciones que el usuario experimenta al usar el producto. 
-
-#### graphic designers
-
-crean las visuales que cuentan una historia o mensaje.
-
-se centran en la apariencia física de un producto
-
-#### ux designers
-
-se centran en cómo el usuario interactúa con el producto.
-
-### colegas de otras áreas
-
-#### ux researchers
-
-investigan el viaje del usuario. Con el fin de mejorar su experiencia.
-
-#### ux writers
-
-se centran en la redacción y tono de los mensajes textuales que el producto comunica.
-
-#### ux engineers
-
-estudian la viabilidad de los diseños propuestos. Se encargan de asegurar la implementabilidad de las propuestas.
 
 ## el ciclo de vida del desarrollo de un producto
 
