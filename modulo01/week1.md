@@ -106,7 +106,38 @@ se centran en la redacción y tono de los mensajes textuales que el producto com
 
 estudian la viabilidad de los diseños propuestos. Se encargan de asegurar la implementabilidad de las propuestas.
 
-## herramientas
+## el ciclo de vida del desarrollo de un producto
+
+proceso en el cual un producto pasa de una idea a la realidad.
+
+un proyecto por lo general comienza cuando un equipo trata de resolver cierto problema.
+
+### etapas
+
+#### brainstorm
+
+etapa de "descubrimiento activo". Generación de ideas sobre el usuario y problemas potenciales.
+
+#### define
+
+usar los insights de la etapa anterior para definir cuestiones concretas y específicas sobre el producto.
+
+#### design
+
+Desarroollo activo de la ideas, usando la información obtenida en etapas anteriores. Wireframes, prototipos, etc.
+
+#### pruebas de usuario
+
+esta etapa es muy importantes, ya que ayuda centrar en el usuario. 
+
+#### launch
+
+permite conocer cómo tu producto se desenvuelve en el mundo real.
+
+
+
+
+
 
 
 
