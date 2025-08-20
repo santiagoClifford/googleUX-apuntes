@@ -18,6 +18,8 @@ including starting your portfolio
 
 ## building a career identity
 
+[youtube video](https://www.youtube.com/watch?v=_xbT4qMrot4)
+
 career identity is the unique value you bring to the workforce based on who you are and what youhave to offer, now and in the future
 
 se conforma por todas tus experiencias de vida y trabajo, y es moldeada por tus fortalezas, motivaciones y valores. Se cultiva a través de tu objetivos, metas y hacia donde te dirijes.
@@ -54,6 +56,5 @@ preguntas que puedes hacerles:
 
 ### career identity statement
 
-template: I am a (role(s)) with (# years) of experience doing (accomplishment).
-My greatest strength is (strength), and I have a talent for (strength).
-I am passionate about (motivation), and I value (value).
+template:
+I am a *(role)* with *(# years)* of experience doing *(accomplishment)*.My greatest strength is *(strength)*, and I have a talent for *(strength)*.I am passionate about *(motivation)*, and I value *(value)*.
