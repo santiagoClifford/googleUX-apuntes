@@ -16,9 +16,9 @@ unidades de este módulo:
 - Build your professional presence online,
 including starting your portfolio
 
-## building a carreer identity
+## building a career identity
 
-carreer identity is the unique value you bring to the workforce based on who you are and what youhave to offer, now and in the future
+career identity is the unique value you bring to the workforce based on who you are and what youhave to offer, now and in the future
 
 se conforma por todas tus experiencias de vida y trabajo, y es moldeada por tus fortalezas, motivaciones y valores. Se cultiva a través de tu objetivos, metas y hacia donde te dirijes.
 
@@ -43,3 +43,17 @@ strenghts: what skills, knowledge and talents set me apart?
 motivations: what fuels and motivates me the most?
 
 values: what values guide me? 
+
+otra buena forma de indagar más en tu identidad profesional , es a través de evaluaciones online, y entrevistando a colegas, compañerxs de clase, o amigxs. Elige gente que te cnozca bien, y que vaya ser honestx contigo.
+
+preguntas que puedes hacerles:
+
+- ¿how would you describe me to someone else?
+- ¿what stands out about me?
+- ¿how do i inspire you?
+
+### career identity statement
+
+template: I am a (role(s)) with (# years) of experience doing (accomplishment).
+My greatest strength is (strength), and I have a talent for (strength).
+I am passionate about (motivation), and I value (value).
