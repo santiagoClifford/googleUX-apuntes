@@ -1,8 +1,10 @@
 # user experience
 
-user experience is how a person(the user) feels about interacting with, or experiencing, a product
+user experience is how a person(the user) feels about interacting with, or experiencing, a product. Gran parte del diseño ux, tiene que ver con predecir potenciales obstáculos por los que puede pasar el usuario. 
 
 un producto es un bien, un servicio, o una característica(good, service or feature)
+
+un producto es diseñado para hacer sentir de cierta manera específica al usuario. Para los diseñadores ux es una tarea clave conectar y asociar una emoción específica, a la experiencia de usar el producto.
 
 for a user to have a good experience, the product needs to be:
 
@@ -12,7 +14,7 @@ ux is about improving usability, or making something easier to use. This means t
 
 los diseñadores ux deben pensar en todas las personas que pueden llegar a usar el producto, incluyendo personas con discapacidad o personas con experiencias de vidad, culturas y contextos, radicalmente distintos al del diseñador.
 
-Considerar las necesidades únicas de múltiples usuarios
+Considerar las necesidades únicas de múltiples usuarios.
 
 ### equitable
 
@@ -38,6 +40,7 @@ esos son los puntos claves para que el usuario tenga una buena experiencia, pero
 
 básicamente, cuando un usuario le gusta un producto, lo usa, y lo recomienda a sus cercanxs. Además, cuando lxs usuarixs tienen buenas experiencias con productos, tienden a tener opiniones positivas sobre la empresa que crea aquel producto.
 
+[más información](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-good-user-experience)
 
 
 ## el ciclo de vida del desarrollo de un producto
@@ -68,12 +71,5 @@ esta etapa es muy importantes, ya que ayuda centrar en el usuario.
 
 permite conocer cómo tu producto se desenvuelve en el mundo real.
 
-
-
-
-
-
-
-
-
+[más información](https://www.coursera.org/learn/foundations-user-experience-design/supplement/Otp7y/learn-more-about-the-product-development-life-cycle)
 
