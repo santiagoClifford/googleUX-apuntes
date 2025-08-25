@@ -45,3 +45,6 @@ se centran en la redacción y tono de los mensajes textuales que el producto com
 ### ux engineers
 
 estudian la viabilidad de los diseños propuestos. Se encargan de asegurar la implementabilidad de las propuestas.
+
+
+cuando un equipo trabaja para crear un producto, todxs cumplen ditintas funciones, pero apuntan hacia una meta común.

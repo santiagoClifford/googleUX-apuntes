@@ -48,3 +48,7 @@ consta de 8 cursos, el último de ellos fue añadadido posteiormente.
 8. inteligencia artificial
 
 se debe aprobar todas las tareas requeridas con una calificación igual o mayor al 80%
+
+[glosario](https://docs.google.com/document/d/1qXJL4PoavvW2jSCrhct1E9DpjMHomlh2GsL1jgcbNfc/template/preview?resourcekey=0-LIzQgy6ghBW9z6UxyUGpbQ)
+
+[google ux - comunidad](https://www.coursera.support/s/google-ux-design-community)
