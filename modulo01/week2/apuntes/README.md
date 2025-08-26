@@ -64,3 +64,41 @@ consta de 4 etapas:
 - design
 - evaluate
 
+### digital literacy
+
+“the ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills.(American Library Association)
+
+## key takeaway
+
+idealmente, un diseñador ux resuelve un problema, con una solución que hace sentir a cada usuario que ésta fue diseñada exclusivamente para él o ella.
+
+[más info](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it)
+
+
+## Assistive Technology (AT)
+
+productos o sistemas que mejoren el aprendizaje o vida de personas con discapacidad.
+
+### color modification
+
+usar colores contrastantes mejora la visibilidad del texto.
+
+## voice control
+
+el control de voz permite a usuarios navegar e interactuar con su dispositivo usando su voz.
+
+## switch
+
+dispositivos que reemplazan al teclado y mouse. 
+
+## screen readers
+
+software que lee en voz alta los textos presentes en pantalla, y el alt text.
+
+### alt text
+
+ayuda a traducir una interfaz visual, en una interfaz basada en texto. Los programadores pueden brindar descripciones de imágenes o botones al escribir el código.
+
+## speech to text
+
+traudce input de audio, en output de texto.
