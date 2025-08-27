@@ -28,6 +28,8 @@ en esta etapa converge el prototipado con el testeo. El objetivo de esta etapa e
 
 ### key takeaways
 
+- si bien, este puede parecer un proceso lineal, es más bien cíclico. Es normal fluir entre etapas, llendo hacia delante y hacia atrás para redefinir y evaluar o desarrollar alternativas.
+
 - Focus on the user.
 
 - Create solutions that address the user’s problems.
