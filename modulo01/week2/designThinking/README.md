@@ -6,6 +6,13 @@ durante el desarrollo del certificado, se usara el framework de Design Thinking.
 
 la meta principal de esta etapa es aprender sobre el usuario: sus necesidades, deseos y problemas. Es importante como diseñador separarse de sesgos y  supocisiones. 
 
+en esta fase se valida, actualiza y expande la información conocida.
+
+### formas de empatizar
+
+- entrevistas: cuestionarios, formularios, llamadas, entrevistas en vivo, etc.
+- empathy maps:
+
 ## define 
 
 analizar los datos obtenidos en la fase anterior permite definir una meta clara. 
