@@ -72,12 +72,13 @@ es importante responder a cada pregunta con la mayor cantidad de respuesta posib
    - ¿quiénes estarán involucrado?¿cuáles serán sus roles?
    - ¿donde sucederá la colaboración?
    - ¿cual es el objetivo de esta colaboración?
-   - ¿cómo se llevara cabo la colaboración?¿qué herramientas y procesos se usarán?
+   - ¿cómo se llevara cabo la colaboración? ¿qué herramientas y procesos se usarán?
 - business requirements: es importante tener en cuenta cosas como el presupuesto y tiempo disponibles
 
 ## prototype and test
 
 en esta etapa converge el prototipado con el testeo. El objetivo de esta etapa es un proceso de iteración continuo apoyado en los insights rescatados del testeo.
+
 
 ### key takeaways
 
