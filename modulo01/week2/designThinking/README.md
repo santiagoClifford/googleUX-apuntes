@@ -8,10 +8,11 @@ la meta principal de esta etapa es aprender sobre el usuario: sus necesidades, d
 
 en esta fase se valida, actualiza y expande la información conocida.
 
-### formas de empatizar
+### herramientas de empatizar
 
 - entrevistas: cuestionarios, formularios, llamadas, entrevistas en vivo, etc.
-- empathy maps:
+- empathy maps: una herramienta para procesar la infomación obetnida con las entrevitsas.
+- user persona: personajes ficticios que representan grupos personas.
 
 ## define 
 
@@ -19,15 +20,60 @@ analizar los datos obtenidos en la fase anterior permite definir una meta clara.
 
 El output de esta fase, debería ser uns descripción de las necesidades del usuario que "atacará" tu diseño.
 
+En esta etapa, los diseñadores deben preguntarse cuál de los problemas del usuario es más importante abarcar.
+
+### herramientas útiles:
+- user stories: mientras los user persona intentan unificar grandes grupos de personas en 1 individuo, las user stories, buscan enfatizar  el entendimiento del usuario. 
+
+**As [type of user], I want to [action] so that [benefit]**
+
+Ejemplo: As a long-time customer with a visual impairment and a close connection to the bakery staff, I want to place my orders over the phone so I can order with ease and continue to connect with staff members.
+
+- user journey: describe la serie de experiencias por las que pasa el usuario en el camino para lograr su objetivo.
+- problem statements: define quién es el usuario, qué necesitan de el diseño, y por qué.
+
+**[Name of user] is a [type of user] who needs [type of user experience] because [benfits of user experience]**
+
+Ejemplo: "Berta is an older person with a visual impairment. She is a long-time bakery customer who prefers ordering over the phone. She needs a website and online ordering system that are easy to use, adapt to her vision needs, and mimic the feel and flow of a friendly phone conversation. She wants to place her orders with ease and feel like she’s making a personal connection with the bakery."
+
 ## ideate
 
 una vez establecido: 1. el problema del usuario, y 2. porqué es importante dar una solución, viene la fase de ideación.
 
 en esta fase consiste en brindar una amplia gama de soluciones posibles, mientras más mejor. 
 
-es importante no enfocarse en juzgar ideas como "buenas" o "malas". Idealmente esta fase se mantiene "libre de juicios". 
+es importante no enfocarse en juzgar ideas como "buenas" o "malas". Idealmente esta fase se mantiene "libre de juicios".
 
 una vez hecho este proceso, es momento de analizar estas posibles soluciones, y filtrar las más ideales.
+
+### Herramientas útiles: 
+
+- "how might we?"
+ejemplos:
+   - how might we make the online ordering process easy to use?
+   - how might we make the online ordering system mimic a friendly conversation.
+   - how might we ensure the online ordering system adapts to  to berta's vision needs?
+es importante responder a cada pregunta con la mayor cantidad de respuesta posibles.
+
+- rapid sketching: divide una hoja de papel en 8 secciones con un lápiz. Con una timer de 8 minutos, dibuja 1 solución en cada sección, 1 por minuto.
+
+- competitive audits: estudiar a la comptencia para entender que podemos ofrecer.
+   - ¿qué productos ofrece la competencia?
+   - ¿respecto a esos productos, cuáles son sus fortalezas, y áreas de mejora?
+- SCAMPER: herramienta para tener en cuenta y estudiar posibles cambios al producto. SCAMPER es una sigla, de las opciones posibles de cómo cambiar. 
+   - S: sustituir elementos por otros elementos
+   - C: combinar varios elementos en uno
+   - A: adaptar elemtos
+   - M: modificar
+   - P: "put to another use"
+   - E: eliminar
+   - R: "rearrange"
+- collaboration: 
+   - ¿quiénes estarán involucrado?¿cuáles serán sus roles?
+   - ¿donde sucederá la colaboración?
+   - ¿cual es el objetivo de esta colaboración?
+   - ¿cómo se llevara cabo la colaboración?¿qué herramientas y procesos se usarán?
+- business requirements: es importante tener en cuenta cosas como el presupuesto y tiempo disponibles
 
 ## prototype and test
 
