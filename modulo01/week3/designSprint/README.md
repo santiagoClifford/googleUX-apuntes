@@ -83,3 +83,12 @@ determinar en qué tipo de recursos serán necesarios, por ejemplo, necesitar un
 ##### sprint schedule:
 
 determinar la agenda del sprint, incluyendo pausas y descansos.
+
+### sprint retrospective
+
+A collaborative critique of the team's design sprint.
+
+Usualmente, inmediatamente después de un design sprint, el equipo se reúne para dar feedback. Se busca responder, entre otras, estas dos preguntas:
+
+- What went well?
+- what can be improved?
