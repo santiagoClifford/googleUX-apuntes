@@ -102,3 +102,16 @@ ayuda a traducir una interfaz visual, en una interfaz basada en texto. Los progr
 ## speech to text
 
 traudce input de audio, en output de texto.
+
+#### links about AT
+
+- [Google accessibility videos](https://www.youtube.com/playlist?list=PL590L5WQmH8dvW6kLjd5jRDN0IiCJHLZZ)
+- [chromebook accessibility](https://support.google.com/chromebook/answer/177893?hl=en&ref_topic=9016892)
+- [android accessibility](https://support.google.com/accessibility/android#topic=6007234)
+- [windows accessiblity](https://www.microsoft.com/en-us/windows/accessibility-features)
+- [mac accessilibity](https://support.apple.com/guide/mac-help/get-started-mh35884/mac)
+- [apple accessibility](https://support.apple.com/accessibility)
+- [google desing article. Parte 1](https://design.google/library/designing-global-accessibility-part-1)
+- [google desing article. Parte 2](https://design.google/library/designing-global-accessibility-part-2)
+- [google desing article. Parte 3](https://design.google/library/designing-global-accessibility-part-iii)
+- [accessibility principles overview](https://m3.material.io/foundations/overview/principles)
