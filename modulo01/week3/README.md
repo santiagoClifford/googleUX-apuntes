@@ -1,0 +1,1 @@
+[glosario](https://www.coursera.org/learn/foundations-user-experience-design/supplement/kqRYh/glossary-terms-from-course-1-module-3)

@@ -79,8 +79,14 @@ es importante responder a cada pregunta con la mayor cantidad de respuesta posib
 
 en esta etapa converge el prototipado con el testeo. El objetivo de esta etapa es un proceso de iteración continuo apoyado en los insights rescatados del testeo.
 
+### recursos útiles:
 
-### key takeaways
+- information architecture: una manera para planificar la jerarquía y flujo del producto.
+- wireframes: dibujos poco detalladeos que representan el "layout". 
+- low fidelity and high fidelity prototypes: los prototipos muchas veces intentan emular una parte específica del producto final, y no el producto por completo.
+
+
+## key takeaways
 
 - si bien, este puede parecer un proceso lineal, es más bien cíclico. Es normal fluir entre etapas, llendo hacia delante y hacia atrás para redefinir y evaluar o desarrollar alternativas.
 
