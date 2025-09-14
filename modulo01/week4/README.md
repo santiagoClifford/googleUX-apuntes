@@ -20,12 +20,24 @@ da a los diseñadores la oportunidad de reducir los problemas que ocurrena medid
 
 Este tipo de investigación se puede llevar a cabo con wireframes, o con prototipos avanzados.
 
-## 
-
-
-Se debe hablar con los usuairos para identificar sus pain points al usar un producto.
-
 preguntas para el usuario:
 - how easy or difficult was it to use?
 - did you encounter any challenges?
+
+## post launch research
+
+Se debe hablar con los usuairos para identificar sus pain points al usar un producto. Y entender si fue una buena o mala experiancia de usuario. Muchas veces comparando con la competencia.
+
+En esta etapa los diseñadores deben preguntarse a sí mismos y a su equipo
+
+- did we succeed?
+
+### cualidades útiles para un Ux researcher
+
+- empathy
+- pragmatism
+- collaboration
+
+
+[mas información](https://www.coursera.org/learn/foundations-user-experience-design/supplement/2oADC/learn-more-about-ux-research)
 
