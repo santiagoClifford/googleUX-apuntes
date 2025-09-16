@@ -51,7 +51,7 @@ se categorizan según:
 1. quién dirige la investigación
    - primary research: conducted by yourself
    - secondary resarch: uses information someone else put together
-   - 
+   la mejor ventaja del research secundario es ahorra tiempo y dinero, es accesible inmediatamnete, y es útil para respaldar tu research primario
 2. el tipo de datos que reúnen
 
    - quantitative: datos numéricos
