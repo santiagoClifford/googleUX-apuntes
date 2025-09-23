@@ -113,3 +113,6 @@ darle mayor valor a algo por el hecho de ya haberle invertido recursos.
 esto remarca la importancia de testeo en usuarios desde temprano. Debido a que mientrás más esfuerzo y/o recursos has invertido en algo, más doloros es desecharlo o cambiarle el rumbo.
 
 [más info](https://www.coursera.org/learn/foundations-user-experience-design/lecture/RHaap/identify-types-of-bias-in-ux-research)
+
+
+[glosario](./_tjrihqjTeKQn_7gMxDW0Q_fe4e38246562495d8c2c9f0ed68028f1_Course-1-Glossary.docx)
