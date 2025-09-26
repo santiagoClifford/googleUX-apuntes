@@ -24,3 +24,18 @@ de estos portfolios elegir 3 y compasrarlos con ayuda de la tabla.
 | Does the portfolio website go beyond the template? | this one is very simple and makes me think that it was a filling of the template without much personalization or iteration on the format | this designer put a lot of her own touch into this portofolio, this really gives a lot of personality to the portfolio, and makes me feel like I know this designer more that I know the other designers | i feel that this also keeps it close to the orginal template, but it demostrates a lot of atention to detail and a deep involvement with each of the proyects. | the second one. It makes me think that they used more than 1 program to design it, maybe illustrator and procreate |
 | Does the portfolio website include a diversity of projects? | they include a variety of topics on the research and purpose of the proyects, but all of them are about UI design. So I'd say no. | this portfolio also has only UI proyects, but the way they are presented and approached, makes them feel really different. So I think the variety of formats makes it seem like there is more variety than there really is. | there a wide variety of proyects. The thing that draws my attention the most, is that the majority of the proyects are from the industrial design area, but they all have a UX approach, within it's reasearch and design. | in my opinion, the third one. But this may be a bias towards industrial design. Which will be my university deegree |
 | Is the site housing the portfolio responsive? | yes | no | yes | the third one, mostly because of the animations shown when panning over interactive zones. |
+
+### portfolio
+
+a collection of work you've created that shows your skills in certain area. "you want recruiters to immediately understand who you are and your strengths as a UX designer."
+
+es buena idea usar un creador de páginas web, muhcos de ellos con la filosofía "what you see is what you get"(wysiwyg)
+
+ejemplifican con estos 3 sitios:
+- [wix](https://www.wix.com)
+- [squarespace](https://www.squarespace.com)
+- [webflow](https://webflow.com)
+
+la que más me llamó la atención es webflow, porque integra algunos elementos de programación
+
+- [info de los sitios](https://www.coursera.org/learn/start-ux-design-process/supplement/pBAxa/explore-website-builders-for-your-portfolio)
