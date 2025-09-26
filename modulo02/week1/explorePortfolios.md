@@ -27,7 +27,7 @@ de estos portfolios elegir 3 y compasrarlos con ayuda de la tabla.
 
 ### portfolio
 
-a collection of work you've created that shows your skills in certain area. "you want recruiters to immediately understand who you are and your strengths as a UX designer."
+a collection of work you've created that shows your skills in certain area. "you want recruiters to immediately understand who you are and your strengths as a UX designer." Es importante difereciarte de los otros diseñadores.
 
 es buena idea usar un creador de páginas web, muhcos de ellos con la filosofía "what you see is what you get"(wysiwyg)
 
@@ -39,3 +39,33 @@ ejemplifican con estos 3 sitios:
 la que más me llamó la atención es webflow, porque integra algunos elementos de programación
 
 - [info de los sitios](https://www.coursera.org/learn/start-ux-design-process/supplement/pBAxa/explore-website-builders-for-your-portfolio)
+
+#### advices for portfolio
+
+1. establish your personal brand:
+como se intersectan, tu personalidad,skills y valores con tu "public persona". tu marca personal es la primera impresion que das
+2. tell a good story
+idealmente la estructura debe responder a tu proceso de diseño como "inicio, desarrollo y final"
+ej: comenzar con el problema de diseño, en desarrollo hablar del proceso que seguiste para completar los diseños(investigacion, bocetos, etc). finalmente terminar con una imagen pulida del diseño, quizas agregar respaldo u opiniones positivos.
+3. sé consiso:
+escribe la cantidad mínima de texto posible. resalta las ideas clave(insights) que te inspiraron a tomar desiciones. Deja que el proyecto hable por sí solo.
+4. keep your navigation simple and intuitive
+[heurísticas del nielsen](https://www.nngroup.com/articles/ten-usability-heuristics)
+5. go beyond the template
+6. include a diversity of proyects
+7. feature case studies
+¿cuál es el problema que se intenta resolver?
+¿qué proceso se siguió?
+¿dónde se tuvo éxito y donde se fracasó?
+¿qué información sirvió de bases para tomar desciones?
+¿cuál fue la desición definitiva?¿porqué esa fue la desición definitiva?
+
+cosas que añadir
+- nombre del proyecto y duración
+- tu rol en el equipo o proyecto, y contribuciones personales
+- objetivo del proyecto, investigación que se llevó a cabo
+- público objetivo
+- bocetos y wireframes
+- testeo en usuarios
+- diseño final y conslusiones de lo aprendido en el proceso
+9. usability testing
