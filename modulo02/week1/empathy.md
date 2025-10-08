@@ -34,3 +34,44 @@ en el mundo real hay muchos factores que afectan a cómo y dónde buscarás gent
 ### recrutar por email
 Start with a greeting that introduces yourself and the project, then briefly explain why you are reaching out to them. Include logistics for the interview, like location, date, and time. Next, explain the setup for the interview. This is a good time to explain any parts of the interview that you'll need their consent for, like recording audio or video. Begin wrapping up your email by letting the participant know how they should confirm their interview time if they are interested. 
 Es recomendable escribirle a los participantes 1 semana antes y la noche anterior, para estar segurx de su asistencia.
+
+## Determine research goals and questions
+
+tips: 
+- Create research goals to guide the interview questions they ask and the design decisions they make based on users’ responses 
+
+- Determine the target audience for the product they’re designing for and list key characteristics of the users they want to interview
+
+- Write a list of interview questions so they can determine effective questions in advance and ensure consistency across interviews with different users
+
+### ejemplo Interview goals: 
+
+I want to understand common challenges people face when trying to manage a busy schedule and when meal planning.
+
+I want to identify frustrations people experience during the process of ordering from a restaurant.  
+
+Target participant characteristics:
+
+Ages 18–62
+
+Live in metropolitan or suburban areas
+
+People who order food from restaurants at least once a week
+
+Include participants of different genders
+
+Include participants with disabilities
+
+Interview questions: 
+
+What is your current schedule like? How do you balance your responsibilities with meal planning?
+
+How often do you order meals from a restaurant? When you do, what is your motivation? 
+
+What challenges do you face in the ordering process? How do these challenges make you feel?
+
+How do you think these challenges could be resolved?
+
+[más info](https://www.coursera.org/learn/start-ux-design-process/supplement/tPei3/determine-research-goals-and-questions)
+
+[recruiting participant](https://www.coursera.org/learn/start-ux-design-process/supplement/5oTkS/find-and-recruit-interview-participants)
