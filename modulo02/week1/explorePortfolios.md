@@ -24,3 +24,48 @@ de estos portfolios elegir 3 y compasrarlos con ayuda de la tabla.
 | Does the portfolio website go beyond the template? | this one is very simple and makes me think that it was a filling of the template without much personalization or iteration on the format | this designer put a lot of her own touch into this portofolio, this really gives a lot of personality to the portfolio, and makes me feel like I know this designer more that I know the other designers | i feel that this also keeps it close to the orginal template, but it demostrates a lot of atention to detail and a deep involvement with each of the proyects. | the second one. It makes me think that they used more than 1 program to design it, maybe illustrator and procreate |
 | Does the portfolio website include a diversity of projects? | they include a variety of topics on the research and purpose of the proyects, but all of them are about UI design. So I'd say no. | this portfolio also has only UI proyects, but the way they are presented and approached, makes them feel really different. So I think the variety of formats makes it seem like there is more variety than there really is. | there a wide variety of proyects. The thing that draws my attention the most, is that the majority of the proyects are from the industrial design area, but they all have a UX approach, within it's reasearch and design. | in my opinion, the third one. But this may be a bias towards industrial design. Which will be my university deegree |
 | Is the site housing the portfolio responsive? | yes | no | yes | the third one, mostly because of the animations shown when panning over interactive zones. |
+
+### portfolio
+
+a collection of work you've created that shows your skills in certain area. "you want recruiters to immediately understand who you are and your strengths as a UX designer." Es importante difereciarte de los otros diseñadores.
+
+es buena idea usar un creador de páginas web, muhcos de ellos con la filosofía "what you see is what you get"(wysiwyg)
+
+ejemplifican con estos 3 sitios:
+- [wix](https://www.wix.com)
+- [squarespace](https://www.squarespace.com)
+- [webflow](https://webflow.com)
+
+la que más me llamó la atención es webflow, porque integra algunos elementos de programación
+
+- [info de los sitios](https://www.coursera.org/learn/start-ux-design-process/supplement/pBAxa/explore-website-builders-for-your-portfolio)
+
+#### advices for portfolio
+
+1. establish your personal brand:
+como se intersectan, tu personalidad,skills y valores con tu "public persona". tu marca personal es la primera impresion que das
+2. tell a good story
+idealmente la estructura debe responder a tu proceso de diseño como "inicio, desarrollo y final"
+ej: comenzar con el problema de diseño, en desarrollo hablar del proceso que seguiste para completar los diseños(investigacion, bocetos, etc). finalmente terminar con una imagen pulida del diseño, quizas agregar respaldo u opiniones positivos.
+3. sé consiso:
+escribe la cantidad mínima de texto posible. resalta las ideas clave(insights) que te inspiraron a tomar desiciones. Deja que el proyecto hable por sí solo.
+4. keep your navigation simple and intuitive
+[heurísticas del nielsen](https://www.nngroup.com/articles/ten-usability-heuristics)
+5. go beyond the template
+6. include a diversity of proyects
+7. feature case studies
+¿cuál es el problema que se intenta resolver?
+¿qué proceso se siguió?
+¿dónde se tuvo éxito y donde se fracasó?
+¿qué información sirvió de bases para tomar desciones?
+¿cuál fue la desición definitiva?¿porqué esa fue la desición definitiva?
+
+cosas que añadir
+- nombre del proyecto y duración
+- tu rol en el equipo o proyecto, y contribuciones personales
+- objetivo del proyecto, investigación que se llevó a cabo
+- público objetivo
+- bocetos y wireframes
+- testeo en usuarios
+- diseño final y conslusiones de lo aprendido en el proceso
+9. usability testing
