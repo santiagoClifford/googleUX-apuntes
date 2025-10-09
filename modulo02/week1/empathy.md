@@ -37,41 +37,79 @@ Es recomendable escribirle a los participantes 1 semana antes y la noche anterio
 
 ## Determine research goals and questions
 
-tips: 
-- Create research goals to guide the interview questions they ask and the design decisions they make based on users’ responses 
+tips: "when planing for interviews, designers often:"
 
-- Determine the target audience for the product they’re designing for and list key characteristics of the users they want to interview
+- Crean objetivos de la investigación(research goals) que orienten tanto las preguntas  de la entrevista, como las desiciones que se hagan en base al feedback recibido.
 
-- Write a list of interview questions so they can determine effective questions in advance and ensure consistency across interviews with different users
+- determinar el público objetivo del producto, y enlistar las carac terísticas de los usuarios a los que quieren entrevistar
 
-### ejemplo Interview goals: 
 
-I want to understand common challenges people face when trying to manage a busy schedule and when meal planning.
+- Escribir una lista de preguntas, para asegurar la constancia entre les distintes usuaries de la entrevista
 
-I want to identify frustrations people experience during the process of ordering from a restaurant.  
+## research goals
+
+estas guían la entrevista y las iteraaciones. deben ser claras y específicas.
+
+preguntas que ayudan a acercarse a crear reaearch goals:
+
+- Who are my users and what problems or needs is my product aiming to solve?
+
+- What about my users do I want to learn from the interviews? 
+
+- Are there certain user problems or pain points I need to learn more about?
+
+### ejemplo de research goal
+
+- I want to understand common challenges people face when trying to manage a busy schedule and when meal planning.
+
+- I want to identify frustrations people experience during the process of ordering from a restaurant. 
+
+## participant characteristics
+
+Es importante que la cantidad de entrevistados sea manejable, también debe ser diversa.
+
+preguntas para definir las características de los  participantes:
+
+- Who are my end users and what are their key characteristics? Key characteristics include things like age, location, career, gender, disability, and so on.
+
+- How might these characteristics shape users’ experiences with or feelings about my product or similar products?
+
+### ejemplo de participant characteristics
 
 Target participant characteristics:
 
-Ages 18–62
+- Ages 18–62
 
-Live in metropolitan or suburban areas
+- Live in metropolitan or suburban areas
 
-People who order food from restaurants at least once a week
+- People who order food from restaurants at least once a week
 
-Include participants of different genders
+- Include participants of different genders
 
-Include participants with disabilities
+- Include participants with disabilities
+
+por lo general, las empresas tienen definido el público objetivo(target) de cada uno de sus productos, sino, este se puede descubrir/definir con "preliminary user research", o consultando con clientes o stakeholders.
+
+## interview questions
+
+características clave de las preguntas de entrevista: **relevant, open-ended, clear, neutral, and designed for follow-up.**
+
+### ejemplo interview questions
 
 Interview questions: 
 
-What is your current schedule like? How do you balance your responsibilities with meal planning?
+- What is your current schedule like? How do you balance your responsibilities with meal planning?
+- How often do you order meals from a restaurant? When you do, what is your motivation? 
+- What challenges do you face in the ordering process? How do these challenges make you feel?
+- How do you think these challenges could be resolved?
 
-How often do you order meals from a restaurant? When you do, what is your motivation? 
+estos ejemplos son
 
-What challenges do you face in the ordering process? How do these challenges make you feel?
-
-How do you think these challenges could be resolved?
+1. relevantes: porque se alinean con el problema que está tratando de ser resuelto
+2. open ended: invitan a desarrollar las ideas y compartir pensamientos
+3. neutral: está formulada sin asumir nada y sin inclinarse hacia algún lado
+4. clear: cortas, simples y directas
+5. follow-up: las preguntas siguen un orden y van conectadas entre sí
 
 [más info](https://www.coursera.org/learn/start-ux-design-process/supplement/tPei3/determine-research-goals-and-questions)
 
-[recruiting participant](https://www.coursera.org/learn/start-ux-design-process/supplement/5oTkS/find-and-recruit-interview-participants)
