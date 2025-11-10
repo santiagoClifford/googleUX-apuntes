@@ -27,3 +27,5 @@ estos deben incluir miembros de grupos históricamente infrarepresentados.
 - hallway: literalmente pararse en un lugar transito y pedirle a personas que prueben el producto
 - agencias
 [recruiting participant](https://www.coursera.org/learn/start-ux-design-process/supplement/5oTkS/find-and-recruit-interview-participants)
+
+[glosario modulo-01 fase-02](https://www.coursera.org/learn/start-ux-design-process/supplement/tYURj/glossary-terms-from-course-2-module-1)
