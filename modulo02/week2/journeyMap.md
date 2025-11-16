@@ -1,5 +1,5 @@
 # journey maps
-permite documentar el 100% de la secuencia de eventos y experiencias, por las que un usuarie pasa.
+permite documentar el 100% de la secuencia de eventos y experiencias, por las que un usuarie pasa. También disminuye la influencia de los  prejuicios del diseñadore; y ayuda a disminuir los obstáculos en el flujo del usuarie.
 
 es una tabla, que describe estas eexperiencias. Hay de varios tipos. En este caso, el eje x se muestra la serie de "etapas" dentro de la experiencia del usuarie; y en el eje y, se muestran distintas características de las "etapas".
 
