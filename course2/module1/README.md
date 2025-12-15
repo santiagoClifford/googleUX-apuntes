@@ -17,4 +17,5 @@ prompts que me han llamado la atención:
 ## my choice
 
 "Design a high-score tracking app for an arcade"
-I chose that prompt because recently i went to an arcade and i had a blast. I think the content on the app and the eventual notifications has great potential. Also I am not aware of any app or web that serves this purpose.  
+I chose that prompt because recently i went to an arcade and i had a blast. I think the content on the app and the eventual notifications has great potential. Also I am not aware of any app or web that serves this purpose. 
+

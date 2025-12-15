@@ -94,4 +94,9 @@ To create a value proposition, designers typically answer these key questions:
 
 Step 1. Describe your product’s features and benefits. Create a list of all the great features and benefits of your product, big and small. Don’t hold back; list everything that comes to mind and then narrow it down later.
 
-![imagen de mi step1](./img/posit-ideas1.jpg)
+![imagen de mi step1](./img/postIt-step1.jpg)
+
+Step 2. Explain the value of the product. Anything that you identify as a value proposition needs to be beneficial to your users. In this example, for the dog walker app, there were four categories of product values that were identified during user interviews: accessible, professional experience of the dog walkers, cost, and reliability. The giant list of features and benefits from step one is sorted into those four categories
+
+![imagen de mi step2](./img/postIt-step2.jpg)
+
