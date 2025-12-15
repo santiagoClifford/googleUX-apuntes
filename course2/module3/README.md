@@ -91,3 +91,7 @@ To create a value proposition, designers typically answer these key questions:
 - What does the product do? Here, designers clearly state the key actions the product enables users to perform or the key benefits it enables them to achieve.
 
 - Why should the user care? Here, designers emphasize how their product addresses users’ pain points in unique ways that aren’t offered by other products.
+
+Step 1. Describe your product’s features and benefits. Create a list of all the great features and benefits of your product, big and small. Don’t hold back; list everything that comes to mind and then narrow it down later.
+
+![imagen de mi step1](./img/posit-ideas1.jpg)
