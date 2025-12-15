@@ -12,6 +12,8 @@ prompts que me han llamado la atención:
 
 - Design a high-score tracking app for an arcade
 
+- (de mi autoría) design an app for the zoo where you can different challenges and achievements for doing certain things.
+
 ## my choice
 
 "Design a high-score tracking app for an arcade"
