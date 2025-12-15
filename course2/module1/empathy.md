@@ -112,4 +112,3 @@ estos ejemplos son
 5. follow-up: las preguntas siguen un orden y van conectadas entre sí
 
 [más info](https://www.coursera.org/learn/start-ux-design-process/supplement/tPei3/determine-research-goals-and-questions)
-

@@ -9,3 +9,6 @@ learning objectives:
 - Build an empathy map
 - Explain user pain points
 - Create personas
+
+
+[glosario d este módulo(module 2 course 2)](https://www.coursera.org/learn/start-ux-design-process/supplement/s7p42/glossary-terms-from-course-2-module-2)
