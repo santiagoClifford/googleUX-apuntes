@@ -22,6 +22,10 @@ Creating Problem Statements
 A well-structured problem statement includes the user’s characteristics, needs, and insights.
 Problem statements guide designers in empathizing with users and developing effective solutions."
 
+### template 
+
+_____ is an/a _____ who needs ____ beacuse _____
+
 links relevantes: 
 - <https://www.toptal.com/designers/product-design/design-problem-statement>
 - <https://www.nngroup.com/articles/user-need-statements/>
